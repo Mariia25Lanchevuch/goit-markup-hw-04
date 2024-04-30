@@ -261,6 +261,7 @@ width: calc((100-72)/4);
 }
 .benefits-list-item{
     width: calc((100% - 72px) / 4); 
+    
 }
 .benefits-icon-container{
     display: flex;
@@ -337,8 +338,7 @@ color: #434455;
     margin-top: 8px;
 }
 .team-list-link{
-    stroke: #f4f4fd;
-    fill: none;
+    fill: #f4f4fd;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -490,8 +490,8 @@ a {
     column-gap: 16px;
 }
 .social-list-link{
-    stroke: #f4f4fd;
-    fill: none;
+    fill: #f4f4fd;
+    stroke: none;
     display: flex;
     align-items: center;
     justify-content: center;
